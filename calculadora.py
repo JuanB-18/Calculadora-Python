@@ -12,3 +12,4 @@ def multiplicar(num1,num2):
 def dividir(num1,num2):
     resultado= num1/num2
     return resultado
+numero1=int(input("Ingrese un numero:\n"))
